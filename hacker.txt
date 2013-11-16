@@ -1,0 +1,5 @@
+# pakman manifest
+
+__file__.hacker.html hacker.html.erb
+
+css/hacker.css
