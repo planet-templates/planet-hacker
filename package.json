@@ -1,0 +1,21 @@
+{
+  "name": "planet-hacker",
+  "version": "0.1.0",
+  "description": "hacker - planet template pack",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/planet-templates/planet-hacker.git"
+  },
+  "keywords": [
+    "planet",
+    "pluto",
+    "planet-templates",
+    "hacker"
+  ],
+  "author": "Gerald Bauer",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/planet-templates/planet-hacker/issues"
+  },
+  "homepage": "https://github.com/planet-templates/planet-hacker"
+}
